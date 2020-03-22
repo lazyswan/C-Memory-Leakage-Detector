@@ -12,9 +12,9 @@ Author :Swanand Sapre
 //Constants
 
 
-#define SUCCESS			(0)
-#define ERROR_UNDEFINED		(-1)
-#define ERROR_ADDRESS_NULL	(-2)
+#define SUCCESS					(0)
+#define ERROR_UNDEFINED			(-1)
+#define ERROR_ADDRESS_NULL		(-2)
 #define ERROR_LIST_EMPTY		(-3)
 #define ERROR_NODE_NOT_FOUND	(-4)
 
